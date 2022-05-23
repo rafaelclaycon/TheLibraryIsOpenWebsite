@@ -2,36 +2,22 @@
 
 I save your favorite podcasts so you can hear them when the apocalypse comes. Coming soon.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For any support requests, please send an e-mail to tliotheapp@gmail.com
 
-### Markdown
+# Privacy Policy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Last updated: May 18, 2022
 
-```markdown
-Syntax highlighted code block
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
-# Header 1
-## Header 2
-### Header 3
+We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
 
-- Bulleted
-- List
+## Interpretation and Definitions
 
-1. Numbered
-2. List
+### Interpretation
 
-**Bold** and _Italic_ and `Code` text
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
-[Link](url) and ![Image](src)
-```
+### Definitions
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rafaelclaycon/TheLibraryIsOpenWebsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For the purposes of this Privacy Policy:
